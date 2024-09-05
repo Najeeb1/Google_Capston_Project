@@ -57,8 +57,6 @@ The X-axis shows the type of users and the Y-axis shows the time minutes.
 
 We know that casual users ride duration is longer. However, when it comes to the total number of rides, it is completely the opposite. 
 
-On the X-axis, we have the user type and on the Y-axis, we have the total number of rides. 
-![total number of rides for each user type every weekday](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/chart2.png)
 
 
 
