@@ -21,3 +21,6 @@ The course can be accessed: [Google Data Analytics Capstone: Complete a Case Stu
 
 
 The dataset can be accessed: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+
+#### Background: 
+Cyclistic: Abike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also o ering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute to work each day.
