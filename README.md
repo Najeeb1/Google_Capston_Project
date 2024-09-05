@@ -50,4 +50,4 @@ In the processing part, I have done mostly cleaning and combining datasets and h
 
 ## Analayze and Share
 I started with the analysis of a single month's data. This is useful as it is easy to work with, takes less time to get a quick pick, and builds some understanding of the data. 
-Additionally, the dataset size small and is manageable by using Google Sheet or Excel both of which have handy features such as pivots and filters. 
+Additionally, the dataset size is small and is manageable by using Google Sheet or Excel both of which have handy features such as pivots and filters. 
