@@ -49,3 +49,5 @@ In the processing part, I have done mostly cleaning and combining datasets and h
 [Analysis with R](https://a1104c4c2c6842deb059c153deafd12e.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FBike_Rideship_Analysis.html)
 
 ## Analayze and Share
+I started with the analysis of a single month's data. This is useful as it is easy to work with, takes less time to get a quick pick, and builds some understanding of the data. 
+Additionally, the dataset size small and is manageable by using Google Sheet or Excel both of which have handy features such as pivots and filters. 
