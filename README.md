@@ -13,7 +13,7 @@
 - [Ask](#Ask)
 - [Prepare](#Prepare)
 - [Process](#Process)
-- [Analyze and Share](#Analayze and Share)
+- [Analyze and Share](#Analayze)
 
 ## Introduction: 
 In this case study, I will perform many real-world tasks as a data analyst. To answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
