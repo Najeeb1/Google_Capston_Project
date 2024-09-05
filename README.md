@@ -50,5 +50,26 @@ In the processing part, I have done mostly cleaning and combining datasets and h
 
 ## Analayze and Share
 I started with the analysis of a single month's data. This is useful as it is easy to work with, takes less time to get a quick pick, and builds some understanding of the data. 
-Additionally, the dataset size is small and is manageable by using Google Sheet or Excel both of which have handy features such as pivots and filters. Let us take a look at one the useful insights we can get from month of January 2023. 
+Additionally, the dataset size is small and is manageable by using Google Sheet or Excel both of which have handy features such as pivots and filters. Let us take a look at the average ride duration for each user type for each day of the week from January 2023. 
+
+The X-axis shows the type of users and the Y-axis shows the time minutes. 
 ![Average ride duration for each user type every weekday](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/chart1.png)
+
+We know that casual users ride duration is longer. However when it comes to the total number of rides, it is completely the opposite. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
