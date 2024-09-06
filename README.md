@@ -14,6 +14,8 @@
 - [Prepare](#Prepare)
 - [Process](#Process)
 - [Analyze and Share](#Analayze-and-Share)
+- [Act](#Act)
+- 
 
 ## Introduction: 
 In this case study, I will perform many real-world tasks as a data analyst. To answer the key business questions, I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
@@ -89,10 +91,13 @@ Finally, let us take a look at the top destinations for each user type.
 
 ![Top destinations for member users](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mdest.png)
 
+We can see that member users usually go to universities and businesses.  
 And top destination for casual users: 
 
-![Top destinations for casual users](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mdest.png)
+![Top destinations for casual users](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/cdest.png)
 
+Here, the casual users prefer to go to Parks, Museums, Theaters and sightseeing. 
 
+## Act
 
 
