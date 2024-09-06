@@ -42,7 +42,7 @@ Three questions will guide the future marketing program:
 
 I have worked with two different types of datasets. a) quarterly ridership of 2019 and 2020. b) all 12 months of 2023. 
 Every analysis and visualization belongs to the first dataset. Only the Preprocess file done with Python belongs to the second one. 
-The reason for the later part was to be able to work with complex SQL queries. However, Google BigQuery limit exceeds very fast. 
+The reason for the latter part was to be able to work with complex SQL queries. However, Google BigQuery limit exceeds very fast. 
 I picked Pandas to do it for free. 
 
 ## Process: 
