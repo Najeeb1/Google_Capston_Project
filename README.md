@@ -106,6 +106,7 @@ The key findings about the casual users are:
 - They ride more in summers
 - They ride more on the weekends
 - They go to tourist places more often.
+  
 Possible actions:
 
 - Offering discounts on longer rides could help attract more casual users
