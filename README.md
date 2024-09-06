@@ -106,11 +106,11 @@ The key findings about the casual users are:
 - They ride more in summers
 - They ride more on the weekends
 - They go to tourist places more often.
+Possible actions:
 
-  Possible actions:
-  - Offering discounts on longer rides could help attract more casual users
-  - Providing more bikes and advertisements during summer, especially in recreational places can increase casual riders.
-  - Temporary membership / discounted trips during summers and weekends is another option. 
+- Offering discounts on longer rides could help attract more casual users
+- Providing more bikes and advertisements during summer, especially in recreational places can increase casual riders.
+- Temporary membership / discounted trips during summers and weekends is another option. 
 
 
 
