@@ -111,7 +111,7 @@ Possible actions:
 
 - Offering discounts on longer rides could help attract more casual users
 - Providing more bikes and advertisements during summer, especially in recreational places can increase casual riders.
-- Temporary membership / discounted trips during summers and weekends is another option. 
+- Temporary membership/discounted trips during summers and weekends is another option. 
 
 
 
