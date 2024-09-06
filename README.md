@@ -61,7 +61,13 @@ The X-axis shows the type of users and the Y-axis shows the total number of ride
 ![Total number of rides for each user type every weekday](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/chart3.png)
 
 
+Now let us take a look at the monthly ridership average and total: 
 
+![Average ride duration for each user type every month](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mavg.png)
+
+One observation that can be made here is the fact that during summer on average casual riders spike. This can be attributed to warm weather and summer vacations. 
+
+![Total number of rides for each user type every month](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mtotal.png)
 
 
 
