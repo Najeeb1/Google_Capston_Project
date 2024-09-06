@@ -69,13 +69,29 @@ One observation that can be made here is the fact that during summer on average 
 
 ![Total number of rides for each user type every month](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mtotal.png)
 
+We can also take a look at the weekly average and total for each user type. 
 
+![Average ride duration for each user type every week](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/wavg.png)
 
+Here we can see that during the weekends the casual users ride more than usual. This indicates again that casual users take rides for leisure activities and free days of the week. 
 
+![Total number of rides for each user type every week](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/wtotal.png)
 
+Now let us see the hourly changes. 
 
+![Average ride duration for each user type every hour](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/havg.png)
 
+Here we can see that member users plan their rides while the hourly ride for casual users seem to be very chaotic and can change frequency fast. 
 
+![Total number of rides for each user type every hour](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/htotal.png)
+
+Finally, let us take a look at the top destinations for each user type. 
+
+![Top destinations for member users](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mdest.png)
+
+And top destination for casual users: 
+
+![Top destinations for casual users](https://github.com/Najeeb1/Google_Capston_Project/blob/main/images/mdest.png)
 
 
 
